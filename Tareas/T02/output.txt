@@ -1,0 +1,156 @@
+
+2018-10-08 23:07:03
+1. En promedio, las diferencias de dinero de los clientes es de 3.34
+2. El promedio de diferencia de dinero por personalidad es de:
+   * Ludópatas: 8.49
+   * Kibitzers: 1.29
+   * Dieciocher@s: 2.53
+   * Ganadores: 3.57
+   * Millonari@s: 3.97
+3. En promedio, los clientes permanecieron en el casino por 85 minutos.
+4. En promedio, la estadía por personalidad de los clientes es de:
+   * Ludópatas: 145
+   * Kibitzers: 25
+   * Dieciocher@s: 66
+   * Ganadores: 152
+   * Millonari@s: 114
+5. En promedio, el casino ganó -133.61
+6. El juego que generó mayor ganancia es: Ruleta (id = 3)
+7. Un 0.0% de los clientes contó cartas.
+8. Los porcentajes de salida del casino son:
+   * Retiro voluntario: 0%
+
+  * Retiro por predecir: 0%
+9. Los minutos sin funcionar de cada instalacion corresponden a:
+   * Restobar (id = 0): 0
+   * Restobar (id = 1): 0
+   * Tarot (id = 2): 0
+   * Tarot (id = 3): 0
+   * Tarot (id = 4): 0
+   * Baños (id = 5): 0
+   * Baños (id = 6): 0
+   * Baños (id = 7): 0
+   * Baños (id = 8): 0
+10. En promedio, la cantidad diario de jugadores por cada espacio es:
+   * Tragamonedas (id = 0): 20
+   * Ruleta (id = 1): 5
+   * Ruleta (id = 2): 10
+   * Ruleta (id = 3): 4
+   * Ruleta (id = 4): 9
+
+2018-10-08 23:33:43
+1. En promedio, las diferencias de dinero de los clientes es de 1.88
+2. El promedio de diferencia de dinero por personalidad es de:
+   * Ludópatas: 3.95
+   * Kibitzers: 0.45
+   * Dieciocher@s: 0.2
+   * Ganadores: 3.19
+   * Millonari@s: 1.77
+3. En promedio, los clientes permanecieron en el casino por 115 minutos.
+4. En promedio, la estadía por personalidad de los clientes es de:
+   * Ludópatas: 156
+   * Kibitzers: 38
+   * Dieciocher@s: 56
+   * Ganadores: 179
+   * Millonari@s: 144
+5. En promedio, el casino ganó -3.23
+6. El juego que generó mayor ganancia es: Ruleta (id = 2)
+7. Un 0.0% de los clientes contó cartas.
+8. Los porcentajes de salida del casino son:
+   * Retiro voluntario: 0%
+
+  * Retiro por predecir: 0%
+9. Los minutos sin funcionar de cada instalacion corresponden a:
+   * Restobar (id = 0): 0
+   * Restobar (id = 1): 0
+   * Tarot (id = 2): 0
+   * Tarot (id = 3): 0
+   * Tarot (id = 4): 0
+   * Baños (id = 5): 0
+   * Baños (id = 6): 0
+   * Baños (id = 7): 0
+   * Baños (id = 8): 0
+10. En promedio, la cantidad diario de jugadores por cada espacio es:
+   * Tragamonedas (id = 0): 1
+   * Ruleta (id = 1): 0
+   * Ruleta (id = 2): 0
+   * Ruleta (id = 3): 0
+   * Ruleta (id = 4): 0
+
+2018-10-08 23:40:47
+1. En promedio, las diferencias de dinero de los clientes es de -0.46
+2. El promedio de diferencia de dinero por personalidad es de:
+   * Ludópatas: -1.88
+   * Kibitzers: -0.17
+   * Dieciocher@s: 0.48
+   * Ganadores: 1.78
+   * Millonari@s: -2.15
+3. En promedio, los clientes permanecieron en el casino por 130 minutos.
+4. En promedio, la estadía por personalidad de los clientes es de:
+   * Ludópatas: 164
+   * Kibitzers: 27
+   * Dieciocher@s: 52
+   * Ganadores: 178
+   * Millonari@s: 189
+5. En promedio, el casino ganó -103.22
+6. El juego que generó mayor ganancia es: Ruleta (id = 4)
+7. Un 0.0% de los clientes contó cartas.
+8. Los porcentajes de salida del casino son:
+   * Retiro voluntario: 100.0%
+
+  * Retiro por predecir: 0.0%
+9. Los minutos sin funcionar de cada instalacion corresponden a:
+   * Restobar (id = 0): 0
+   * Restobar (id = 1): 0
+   * Tarot (id = 2): 0
+   * Tarot (id = 3): 0
+   * Tarot (id = 4): 0
+   * Baños (id = 5): 0
+   * Baños (id = 6): 0
+   * Baños (id = 7): 0
+   * Baños (id = 8): 0
+10. En promedio, la cantidad diario de jugadores por cada espacio es:
+   * Tragamonedas (id = 0): 72
+   * Ruleta (id = 1): 21
+   * Ruleta (id = 2): 22
+   * Ruleta (id = 3): 17
+   * Ruleta (id = 4): 19
+
+2018-10-11 13:25:14
+1. En promedio, las diferencias de dinero de los clientes es de 7.27
+2. El promedio de diferencia de dinero por personalidad es de:
+   * Ludópatas: 15.65
+   * Kibitzers: 0.82
+   * Dieciocher@s: 3.2
+   * Ganadores: 2.99
+   * Millonari@s: 6.56
+3. En promedio, los clientes permanecieron en el casino por 183 minutos.
+4. En promedio, la estadía por personalidad de los clientes es de:
+   * Ludópatas: 341
+   * Kibitzers: 13
+   * Dieciocher@s: 82
+   * Ganadores: 144
+   * Millonari@s: 221
+5. En promedio, el casino ganó -537.53
+6. El juego que generó mayor ganancia es: Ruleta (id = 2)
+7. Un 0.0% de los clientes contó cartas.
+8. Los porcentajes de salida del casino son:
+   * Retiro voluntario: 100.0%
+
+  * Retiro por predecir: 0.0%
+9. Los minutos sin funcionar de cada instalacion corresponden a:
+   * Restobar (id = 0): 0
+   * Restobar (id = 1): 0
+   * Tarot (id = 2): 0
+   * Tarot (id = 3): 0
+   * Tarot (id = 4): 0
+   * Baños (id = 5): 0
+   * Baños (id = 6): 0
+   * Baños (id = 7): 0
+   * Baños (id = 8): 0
+10. En promedio, la cantidad diario de jugadores por cada espacio es:
+   * Tragamonedas (id = 0): 135
+   * Ruleta (id = 1): 32
+   * Ruleta (id = 2): 50
+   * Ruleta (id = 3): 44
+   * Ruleta (id = 4): 40
